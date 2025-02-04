@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yongzhi Xu (许永志)"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
