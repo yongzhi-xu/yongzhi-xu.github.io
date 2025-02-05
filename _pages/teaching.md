@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Instructor
+# Instructo
 ### Department of Economics, Texas A&M University
 
 Ph.D. Qualifier Camp for Econometrics I, Summer 2024
