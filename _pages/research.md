@@ -12,10 +12,10 @@ redirect_from:
 Working Paper
 ======
 * Tacit
+
+with
   
-  with
-  
-  Abstract
+Abstract: This paper
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
