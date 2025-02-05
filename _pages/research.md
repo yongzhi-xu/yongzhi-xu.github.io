@@ -11,13 +11,11 @@ redirect_from:
 
 Working Paper
 ======
-* Tacit
+* Tacit Collusion by Pricing Algorithm with Rule-Based Rivals
 
 with
   
-Abstract: This paper
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Abstract: Pricing algorithms, especially reinforcement learning algorithms, have been widely used in the past decades for firms in competitive markets, which are very helpful for firms to capture more information of the market and their rivals. Existing literature has shown that, however, reinforcement learning algorithms could lead to supracompetitive prices without any communication between firms. In a framework of price competition between two firms both starting with a rule-based algorithm, we show evidence that (1) if one firm is competing using a reinforcement learning algorithm with a rule-based rival, the price is always going to weakly increase, and (2) if both firms are adopting, the one that adopts later would benefit more, and supracompetitive prices are obtained but the price change is ambiguous compared to the initial case. Our findings contribute to the literature by highlighting the importance of the order of algorithm adoption and the transition from rule-based algorithm to reinforcement learning algorithm, which makes it possible to compare the result with previous steady state in a more general case.
 
 Work experience
 ======
