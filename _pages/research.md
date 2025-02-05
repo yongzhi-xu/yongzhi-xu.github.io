@@ -28,7 +28,7 @@ with [Jinliang Liu](https://sites.google.com/view/jinliangliu),      Latest Draf
 
 ### Let Them Eat Pie: Addressing the Partial Contestation (Selection) Problem in Multiparty Electoral Contests
 
-with Ali Kagalwala, Thiago M. Q. Moreira and Guy D. Whitten
+with [Ali Kagalwala](https://www.alikagalwala.com/), [Thiago M. Q. Moreira](https://www.thiagomqmoreira.com/) and [Guy D. Whitten](https://bush.tamu.edu/faculty/gwhitten/)
 
 **Abstract**: Elections are central to the study of politics. When studying the vote shares of parties, scholars are encouraged to use a compositional outcome model for a comprehensive understanding of the distribution of vote shares across parties. In both non-compositional- and compositional-outcome frameworks, scholars have incorrectly dealt with the fact that all parties do not necessarily compete in every electoral district within some geographic unit (e.g., country). Ignoring this results in sample selection bias. Accounting for sample selection in a compositional-outcome model results in a unique challenge because the outcomes are in log-ratio form, and thus the errors are distributed type-I extreme value. We introduce a novel maximum likelihood approach to account for this type of sample selection and demonstrate through simulations that our method outperforms commonly used solutions. We illustrate the utility of our approach by analyzing the English elections in 2017 and 2019.
 
@@ -36,8 +36,8 @@ with Ali Kagalwala, Thiago M. Q. Moreira and Guy D. Whitten
 
 ### Historical Simulations of Unified China and Divided Europe: Insights from Reinforcement Learning
 
-with Weiwen Yin and Li Zheng
+with [Weiwen Yin](https://www.weiwenyin.org/) and [Li Zheng](https://iesr.jnu.edu.cn/2019/0821/c17702a512553/page.htm)
 
 ### Long Divided, Must Unite? Historical Simulations of Japan's Political Evolution Using Reinforcement Learning
 
-with Weiwen Yin and Li Zheng
+with [Weiwen Yin](https://www.weiwenyin.org/) and [Li Zheng](https://iesr.jnu.edu.cn/2019/0821/c17702a512553/page.htm)
