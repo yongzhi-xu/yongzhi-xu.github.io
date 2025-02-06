@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-test
-[CV](https://yongzhi-xu.github.io/assests/CV.pdf)
+
+[CV](https://yongzhi-xu.github.io/assets/CV.pdf)
