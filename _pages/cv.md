@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "test"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+test
 [CV](https://yongzhi-xu.github.io/assests/CV.pdf)
