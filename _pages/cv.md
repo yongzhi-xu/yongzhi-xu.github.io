@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](.../assests/CV.pdf)
+[CV](https://yongzhi-xu.github.io/assests/CV.pdf)
