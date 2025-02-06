@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[C](.../assests/CV.pdf)
+[CV](.../assests/CV.pdf)
+
+test
