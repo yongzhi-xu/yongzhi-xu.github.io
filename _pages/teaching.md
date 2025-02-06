@@ -9,11 +9,11 @@ author_profile: true
 
 # Instructor
 ### Department of Economics, Texas A&M University
-Ph.D. Qualifier Camp for Econometrics I, Summer 2024
+PhD Qualifier Camp for Econometrics I, Summer 2024
 
 ECON 202 Principles of Economics: Microeconomics, Summer 2023
 
-Ph.D. Qualifier Camp for Microeconomic Theory I 	Summer 2022
+PhD Qualifier Camp for Microeconomic Theory I 	Summer 2022
 
 # Teaching Assistant
 ### Department of Economics, Texas A&M University
