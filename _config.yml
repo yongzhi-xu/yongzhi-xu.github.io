@@ -22,7 +22,7 @@ repository               : "yongzhi-xu/yongzhi-xu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Yongzhi Xu"
   pronouns         : # example: "she/her"  
   bio              : "Texas A&M University"
