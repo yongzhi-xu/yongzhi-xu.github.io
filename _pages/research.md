@@ -26,7 +26,7 @@ with [Jinliang Liu](https://sites.google.com/view/jinliangliu),    *Revise and R
 
 **Abstract**: On sales platforms for experience goods, consumers only know the distribution of a good's value before purchase, while its actual value is revealed only after the purchase. However, consumers' perceptions of the distribution's range may vary, and the presence of a return policy can also influence the behavior of both sellers and buyers. Utilizing a post-price framework and controlled laboratory experiments, this paper provides the first investigation of experience goods markets that examines (1) the presence of a return policy and (2) the level of consumers' perception heterogeneity about the range of the value's corresponding distribution. We find that return policies lead to lower uniform prices in markets for experience goods. In addition, a larger perception heterogeneity reduces prices and increases return rates. Our results highlight potential downsides of return policies in online sales platforms.
 
-### Let Them Eat Pie: Addressing the Partial Contestation (Selection) Problem in Multiparty Electoral Contests
+### Let Them Eat Pie: Addressing the Partial Contestation Problem in Multiparty Electoral Contests
 
 with [Ali Kagalwala](https://www.alikagalwala.com/), [Thiago M. Q. Moreira](https://www.thiagomqmoreira.com/) and [Guy D. Whitten](https://bush.tamu.edu/faculty/gwhitten/)
 
