@@ -151,6 +151,7 @@ analytics:
   google:
     tracking_id          : "G-35TGYDHXCM"
 
+baidu_analytics: "915b438af6895fc64796996e561f12a4"
 
 # Reading Files
 include:
