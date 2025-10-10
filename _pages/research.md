@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# Working Paper
+# Publication
+### The Impact of Return Policies and Perception Heterogeneity on Sales Platforms for Experience Goods: An Experimental Study
+
+with [Jinliang Liu](https://sites.google.com/view/jinliangliu),    *Accepted* at *Journal of Economic Behavior and Organization*,      Latest draft: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112511).
+
+**Abstract**: On sales platforms for experience goods, consumers only know the distribution of a good's value before purchase, while its actual value is revealed after the purchase. However, consumers may perceive the distribution's range differently, and the presence of a return policy can also influence strategic interactions in the market. Utilizing a post-price framework and controlled laboratory experiments, this paper provides the first investigation of experience goods markets that directly examines (1) the presence of a return policy and (2) the level of consumers' perception heterogeneity about the range of the value's corresponding distribution. We find that return policies result in lower prices in markets for experience goods. In addition, a larger perception heterogeneity reduces prices and increases return rates. Our results highlight potential downsides of mandated return policies on online sales platforms, as they reduce sellers' profits without improving consumer welfare.
+
+# Working Papers
 ### Tacit Collusion by Pricing Algorithm with Rule-Based Rivals (Job Market Paper)
 
 (Draft coming soon)
@@ -21,12 +28,6 @@ redirect_from:
 with [Yonghong An](https://people.tamu.edu/~yonghongan/) and [Yu Zhu](https://sites.google.com/site/yuzhu2757/) (Draft coming soon)
 
 **Abstract**: Algorithms can facilitate collusive behaviors among competing firms. It is challenging for antitrust authority to monitor and detect algorithmic collusion due to complicated price patterns and frequent price changes. In this paper, we study two important issues assuming that antitrust authority employs algorithms: how firms respond to an algorithmic antitrust authority and what price patterns the algorithmic antitrust authority would detect. In a framework of quantity competition of two firms, we demonstrate numerically that antitrust authority's algorithms can effectively boost firms' quantities and reduce the possibility of algorithmic collusion. We also identify several important factors that affect the authority's effectiveness in auditing collusion: cost uncertainty of firms, penalty on firms due to detected collusion, and the authority's incentive to audit. 
-
-### The Impact of Return Policies and Perception Heterogeneity on Sales Platforms for Experience Goods: An Experimental Study
-
-with [Jinliang Liu](https://sites.google.com/view/jinliangliu),    *Accepted* at *Journal of Economic Behavior and Organization*,      Latest draft: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112511).
-
-**Abstract**: On sales platforms for experience goods, consumers only know the distribution of a good's value before purchase, while its actual value is revealed after the purchase. However, consumers may perceive the distribution's range differently, and the presence of a return policy can also influence strategic interactions in the market. Utilizing a post-price framework and controlled laboratory experiments, this paper provides the first investigation of experience goods markets that directly examines (1) the presence of a return policy and (2) the level of consumers' perception heterogeneity about the range of the value's corresponding distribution. We find that return policies result in lower prices in markets for experience goods. In addition, a larger perception heterogeneity reduces prices and increases return rates. Our results highlight potential downsides of mandated return policies on online sales platforms, as they reduce sellers' profits without improving consumer welfare.
 
 ### Let Them Eat Pie: Addressing Sample Selection in Multiparty Elections
 
