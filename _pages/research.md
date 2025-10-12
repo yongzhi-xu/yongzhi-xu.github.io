@@ -12,7 +12,8 @@ redirect_from:
 # Publication
 ### The Impact of Return Policies and Perception Heterogeneity on Sales Platforms for Experience Goods: An Experimental Study
 
-with [Jinliang Liu](https://sites.google.com/view/jinliangliu),    *Accepted* at *Journal of Economic Behavior and Organization*,      Latest draft: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112511).
+*Journal of Economic Behavior and Organization*, Vol. 239, 2025, 107287. (With [Jinliang Liu](https://sites.google.com/view/jinliangliu)) 
+[[DOI](https://doi.org/10.1016/j.jebo.2025.107287)       , [Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112511)]
 
 **Abstract**: On sales platforms for experience goods, consumers only know the distribution of a good's value before purchase, while its actual value is revealed after the purchase. However, consumers may perceive the distribution's range differently, and the presence of a return policy can also influence strategic interactions in the market. Utilizing a post-price framework and controlled laboratory experiments, this paper provides the first investigation of experience goods markets that directly examines (1) the presence of a return policy and (2) the level of consumers' perception heterogeneity about the range of the value's corresponding distribution. We find that return policies result in lower prices in markets for experience goods. In addition, a larger perception heterogeneity reduces prices and increases return rates. Our results highlight potential downsides of mandated return policies on online sales platforms, as they reduce sellers' profits without improving consumer welfare.
 
