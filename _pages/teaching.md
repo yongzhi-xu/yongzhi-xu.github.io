@@ -19,7 +19,7 @@ PhD Qualifier Camp for Microeconomic Theory I, Summer 2022
 
 # Teaching Assistant
 ### Department of Economics, Texas A&M University
-ECMT 676 Econometrics II (PhD core, with recitation), Prof. Manu Navjeevan & Prof. Jorge Garcia, Spring 2025
+ECMT 676 Econometrics II (PhD core, with recitation), Prof. Manu Navjeevan & Prof. Jorge Luis García, Spring 2025
 
 ECMT 675 Econometrics I (PhD core, with recitation), Prof. Yonghong An, Fall 2024
 
