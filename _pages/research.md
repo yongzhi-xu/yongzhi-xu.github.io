@@ -20,9 +20,9 @@ redirect_from:
 # Working Papers
 ### Tacit Collusion by Pricing Algorithm with Rule-Based Rivals (Job Market Paper)
 
-(Draft coming soon)
+[Latest Draft](https://yongzhi-xu.github.io/files/XYZ_JMP.pdf)
 
-**Abstract**:     Pricing algorithms, especially reinforcement learning algorithms, have been widely used over the past decades for firms in competitive markets, helping them capture more information about the market and their rivals. Existing literature has shown that, however, reinforcement learning algorithms could lead to supracompetitive prices even without any communication between firms. In a framework of price competition between two firms both initially using rule-based strategies, we provide theoretical and simulation evidence that the prices of both firms weakly increase when one firm adopts an algorithm. We also find that the firm using a rule can ``free ride" and benefit more from the other firm's algorithm adoption. Our findings contribute to the literature by highlighting the importance of the order of algorithm adoption and the transition from rule-based strategy to learning-based algorithm, demonstrate how the tacit collusion can occur in a broader circumstances.
+**Abstract**: Pricing algorithms, particularly reinforcement learning algorithms, have been increasingly used by firms in competitive markets, helping them capture more information about the market and their rivals. While prior work has shown that reinforcement learning algorithms can lead to supracompetitive prices in the absence of communication between firms, existing studies largely assume simultaneous adoption by competing firms. Within a framework of price competition between two firms both initially using rule-based strategies, we provide theoretical and simulation evidence that the prices of both firms weakly increase when one firm adopts an algorithm. We also find that the firm using a rule can “free ride” and benefit more from the other firm’s adoption. Our findings contribute to the literature by highlighting the importance of the order of algorithm adoption and the transition from rule-based strategies to learningbased algorithms, and demonstrate how tacit collusion can occur in a broader set of circumstances.
 
 ### Detecting Algorithmic Collusion by Algorithms
 
