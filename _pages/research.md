@@ -20,7 +20,7 @@ redirect_from:
 # Working Papers
 ### Tacit Collusion by Pricing Algorithm with Rule-Based Rivals (Job Market Paper)
 
-[Latest Draft](https://yongzhi-xu.github.io/files/XYZ_JMP.pdf)
+[[Latest Draft](https://yongzhi-xu.github.io/files/XYZ_JMP.pdf)]
 
 **Abstract**: Pricing algorithms, particularly reinforcement learning algorithms, have been increasingly used by firms in competitive markets, helping them capture more information about the market and their rivals. While prior work has shown that reinforcement learning algorithms can lead to supracompetitive prices in the absence of communication between firms, existing studies largely assume simultaneous adoption by competing firms. Within a framework of price competition between two firms both initially using rule-based strategies, we provide theoretical and simulation evidence that the prices of both firms weakly increase when one firm adopts an algorithm. We also find that the firm using a rule can “free ride” and benefit more from the other firm’s adoption. Our findings contribute to the literature by highlighting the importance of the order of algorithm adoption and the transition from rule-based strategies to learningbased algorithms, and demonstrate how tacit collusion can occur in a broader set of circumstances.
 
