@@ -26,7 +26,8 @@ redirect_from:
 
 ### Detecting Algorithmic Collusion by Algorithms
 
-with [Yonghong An](https://people.tamu.edu/~yonghongan/) and [Yu Zhu](https://sites.google.com/site/yuzhu2757/) (Draft coming soon)
+with [Yonghong An](https://people.tamu.edu/~yonghongan/) and [Yu Zhu](https://sites.google.com/site/yuzhu2757/) [[Latest Draft](https://yongzhi-xu.github.io/files/An_Xu_and_Zhu.pdf)]
+
 
 **Abstract**: Algorithms can facilitate collusive behaviors among competing firms. It is challenging for antitrust authority to monitor and detect algorithmic collusion due to complicated price patterns and frequent price changes. In this paper, we study two important issues assuming that antitrust authority employs algorithms: how firms respond to an algorithmic antitrust authority and what price patterns the algorithmic antitrust authority would detect. In a framework of quantity competition of two firms, we demonstrate numerically that antitrust authority's algorithms can effectively boost firms' quantities and reduce the possibility of algorithmic collusion. We also identify several important factors that affect the authority's effectiveness in auditing collusion: cost uncertainty of firms, penalty on firms due to detected collusion, and the authority's incentive to audit. 
 
