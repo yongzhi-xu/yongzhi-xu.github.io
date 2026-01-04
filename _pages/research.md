@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Publication
-### The Impact of Return Policies and Perception Heterogeneity on Sales Platforms for Experience Goods: An Experimental Study
+### The impacts of return policies and perception heterogeneity on sales platforms for experience goods: An experimental study
 
 *Journal of Economic Behavior and Organization*, Vol. 239, 2025, 107287. (With [Jinliang Liu](https://sites.google.com/view/jinliangliu)) 
 [[DOI](https://doi.org/10.1016/j.jebo.2025.107287)]
